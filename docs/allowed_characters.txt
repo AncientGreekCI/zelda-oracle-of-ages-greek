@@ -1,0 +1,31 @@
+ALLOWED GREEK CHARACTERS (everything else is unavailable in the game font)
+
+Capitals: Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω
+Lowercase: α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ ς τ υ φ χ ψ ω
+Middle dot: ·
+
+Marked letters (a grave accent is also accepted: it is converted to the acute shown here when the game is built):
+  lower acute: ά έ ή ί ό ύ ώ
+  lower circumflex: ᾶ ῆ ῖ ῦ ῶ
+  lower smooth: ἀ ἐ ἠ ἰ ὀ ὐ ὠ
+  lower rough: ἁ ἑ ἡ ἱ ὁ ὑ ὡ
+  lower smooth+acute: ἄ ἔ ἤ ἴ ὄ ὔ ὤ
+  lower rough+acute: ἅ ἕ ἥ ἵ ὅ ὕ ὥ
+  lower smooth+circ: ἆ ἦ ἶ ὖ ὦ
+  lower rough+circ: ἇ ἧ ἷ ὗ ὧ
+  diaeresis: ϊ ϋ ΐ ΰ
+  rho breathing: ῥ ῤ
+  upper smooth: Ἀ Ἐ Ἠ Ἰ Ὀ Ὠ
+  upper rough: Ἁ Ἑ Ἡ Ἱ Ὁ Ὑ Ὡ Ῥ
+  upper smooth+acute: Ἄ Ἔ Ἤ Ἴ Ὄ Ὤ
+  upper rough+acute: Ἅ Ἕ Ἥ Ἵ Ὅ Ὕ Ὥ
+  upper smooth+circ: Ἆ Ἦ Ἶ Ὦ
+  upper rough+circ: Ἇ Ἧ Ἷ Ὗ Ὧ
+  iota sub: ᾳ ῃ ῳ ᾴ ῄ ῴ ᾷ ῇ ῷ
+  iota sub breathing+circ: ᾆ ᾖ ᾦ ᾇ ᾗ ᾧ
+  iota sub breathing: ᾀ ᾐ ᾠ ᾁ ᾑ ᾡ
+  iota sub breathing+acute: ᾄ ᾔ ᾤ ᾅ ᾕ ᾥ
+  upper acute: Ά Έ Ή Ί Ό Ύ Ώ
+
+ALLOWED PUNCTUATION/OTHER: ! " ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; ? and the Greek question mark is written as ;
+NEVER USE: Latin letters (A-Z, a-z) outside control codes; capital letters with iota subscript or diaeresis; curly quotes; ellipsis character (type three periods); any Modern Greek form.
